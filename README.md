@@ -1,7 +1,8 @@
 # CST8919 Lab 2: Building a Web App with Threat Detection
 
-**Student**: Daniel Abou-Assaly/041173113
-**Demo video**: 
+**Student**: Daniel Abou-Assaly/041173113 
+**Demo video**: [Watch on YouTube](https://youtu.be/5XJKxs3ESAM)
+
 
 ---
 
