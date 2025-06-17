@@ -21,7 +21,7 @@ AppServiceConsoleLogs
 | where ResultDescription contains "FAILED login"
 | summarize failedCount = count() by bin(TimeGenerated, 5m)
 | where failedCount > 5
-
+```
 **Explanation:**
 
 - **Source table**  
