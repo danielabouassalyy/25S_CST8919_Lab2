@@ -1,11 +1,11 @@
 ### Successful login
-POST http://localhost:5000/login
+POST https://lab2appdaniel.azurewebsites.net/login
 Content-Type: application/json
 
 {"username":"admin","password":"secret"}
 
 ### Failed login
-POST http://localhost:5000/login
+POST https://lab2appdaniel.azurewebsites.net/login
 Content-Type: application/json
 
 {"username":"evil","password":"guess"}
